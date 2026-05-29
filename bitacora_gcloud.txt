@@ -1,0 +1,5 @@
+gcloud config list
+[core]
+account = 19362873@uagro.mx
+disable_usage_reporting = True
+project = cogent-mark-431505-b4
